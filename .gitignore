@@ -1,0 +1,6 @@
+*#
+*.pdf
+*.tar*
+.LABs/
+env/
+*.pyc
